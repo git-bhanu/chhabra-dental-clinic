@@ -8,7 +8,12 @@ module.exports = {
       ringWidth: ['hover', 'active'],
       ringColor: ['hover', 'active'],
       textDecoration: ['active'],
-    },    
+      colors: {
+        dentalred: {
+          DEFAULT: '#D2010D'
+        }
+      }
+    },
   },
   variants: {},
   plugins: [],
